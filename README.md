@@ -40,5 +40,4 @@ The CPU design follows the classic *Single-Cycle MIPS architecture* used in comp
 
 ---
 
-## 📂 Project Structure
 
